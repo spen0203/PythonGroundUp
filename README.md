@@ -2,11 +2,11 @@
 <p> This project consists of all the courses and lessons I complete on improving my Python abilities </p>
 
 <h2>Contents: (by completion)<br/>Course Name by Author (Completion Date) - Description </h2>
-
+<hr/>
 <h3>Python Automation and Testing by Bhoomika Agarwal (7/11/2020) - Using Selenium to automate web testing </h3>
 <li> Automation and Testing Selenium </li>
 <br/>
-
+<hr/>
 <h3>Python: Programming Efficiently by Michele Vallisneri (6/27/2020) - Write efficient readable code</h3>
 <li> Jupyter Notebook </li>
 <h4>Chapter 2 - Writing Python Efficiently</h4>
@@ -34,6 +34,7 @@
 <t><t><li>Memory Profilling </li>
 <t><t><li>Time Profiling </li>
 <br/>
+<hr/>
 <h3>Learning Python by Joe Marini (6/27/2020)</h3>
 <li> Python Basics </li>
 <li> Python Date & Time </li>
